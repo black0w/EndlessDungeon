@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: a206d074f11854140a19112744ed2dee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6342293418098349679
+    second: Layer 1_sprite_34_0
+  - first:
+      213: -2469162194215957556
+    second: Layer 1_sprite_34_1
+  - first:
+      213: -6689187741145106020
+    second: Layer 1_sprite_34_2
+  - first:
+      213: -1883620345382021308
+    second: Layer 1_sprite_34_3
+  - first:
+      213: 5505503715765768512
+    second: Layer 1_sprite_34_4
+  - first:
+      213: -6893784500061574652
+    second: Layer 1_sprite_34_5
+  - first:
+      213: -4705371947357364874
+    second: Layer 1_sprite_34_6
+  - first:
+      213: 7649981118674369707
+    second: Layer 1_sprite_34_7
+  - first:
+      213: 1332680564504105674
+    second: Layer 1_sprite_34_8
+  - first:
+      213: 2661920812113462270
+    second: Layer 1_sprite_34_9
+  - first:
+      213: 556938202853297481
+    second: Layer 1_sprite_34_10
+  - first:
+      213: -3638866825658926402
+    second: Layer 1_sprite_34_11
+  - first:
+      213: -4123124595615377823
+    second: Layer 1_sprite_34_12
+  - first:
+      213: 1888967228124438561
+    second: Layer 1_sprite_34_13
+  - first:
+      213: 4263166184196549582
+    second: Layer 1_sprite_34_14
+  - first:
+      213: 8290544308987109825
+    second: Layer 1_sprite_34_15
+  - first:
+      213: -6722012592482647234
+    second: Layer 1_sprite_34_16
+  - first:
+      213: 4285722702982270746
+    second: Layer 1_sprite_34_17
+  - first:
+      213: 6283234910919644126
+    second: Layer 1_sprite_34_18
+  - first:
+      213: -5147979644958793527
+    second: Layer 1_sprite_34_19
+  - first:
+      213: -3081782004385991053
+    second: Layer 1_sprite_34_20
+  - first:
+      213: 1368605234169264807
+    second: Layer 1_sprite_34_21
+  - first:
+      213: 4484875277185176100
+    second: Layer 1_sprite_34_22
+  - first:
+      213: 5393506344618582818
+    second: Layer 1_sprite_34_23
+  - first:
+      213: 8841702879289594227
+    second: Layer 1_sprite_34_24
+  - first:
+      213: 5747466688033904167
+    second: Layer 1_sprite_34_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

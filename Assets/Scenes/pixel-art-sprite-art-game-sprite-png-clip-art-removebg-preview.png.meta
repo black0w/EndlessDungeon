@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: c6ac5f08ff077d444b81c49f6fc1bdaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3875446101261090547
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_0
+  - first:
+      213: -3399467563562093873
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_1
+  - first:
+      213: -2365288859116502753
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_2
+  - first:
+      213: -4367196122997088441
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_3
+  - first:
+      213: -8996818508263288603
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_4
+  - first:
+      213: 956223363042385131
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_5
+  - first:
+      213: 7613026699866280633
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_6
+  - first:
+      213: 6913015772030929213
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_7
+  - first:
+      213: 8557052239039414717
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_8
+  - first:
+      213: -3214494377287913139
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_9
+  - first:
+      213: 216605340092507651
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_10
+  - first:
+      213: 1229005184218590618
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_11
+  - first:
+      213: -5055687503667648550
+    second: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 325
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01092ccd46a73ac0800000000000000
+      internalID: -3875446101261090547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 325
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23b68134aa2d0d0800000000000000
+      internalID: -3399467563562093873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 330
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110c21805ecc2fd0800000000000000
+      internalID: -2365288859116502753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 330
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9b48b34a9463c0800000000000000
+      internalID: -4367196122997088441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 202
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09e42eb31e42380800000000000000
+      internalID: -8996818508263288603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 202
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec12181510354d00800000000000000
+      internalID: 956223363042385131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2181fa277e6a960800000000000000
+      internalID: 7613026699866280633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 202
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39839ac737ffef50800000000000000
+      internalID: 6913015772030929213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c7689ca1c0c670800000000000000
+      internalID: 8557052239039414717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41734d1562d363d0800000000000000
+      internalID: -3214494377287913139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306aaa0c869810300800000000000000
+      internalID: 216605340092507651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d667814bd4e0110800000000000000
+      internalID: 1229005184218590618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-sprite-art-game-sprite-png-clip-art-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72288600796d9b0800000000000000
+      internalID: -5055687503667648550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

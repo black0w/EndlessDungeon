@@ -1,0 +1,22 @@
+2D Dungeon Game - The Endless Dungeon Story 
+- One Character - Yes
+  - Character Movement - ??
+- One Spell - YES 
+- ~3 Types of Enemies - Waiting - ~3
+//- Every Room Opens with a key which drops from "Boss" enemy?
+//- From every Kill you gain Coins?
+- 3 Life - yes
+- Possibly Life Potion- YES
+- Possibly Armour Potion
+
+ Possible features in the future:
+ - Character pick ( diffirent characters with diffirent skills and stats)
+ - ...?
+
+
+ TO-DO:
+ -Fix all Colliders(if any left) of the doors 
+ -make the Room Collider Smaller so it doesnt detect the player before going in
+ -Add boss in the last Dead End Room
+ - да проверим всяка врата дали около нея има друга врата, и ако само една врата има която няма друга около нея, и "random" стаята която се се генерира 
+ е dead end то тогава в тая стая да е boss-a
